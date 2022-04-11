@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ```JS
 const aboutMe = {
     name: "SAURABH",
-    age: "16",
+    age: "18+",
     country: "Bangladesh",
     game: ["free-fire", "minecraft", "valorant", "gta-v5", "watch-dog"],
     languages: ["Javascript", "Typescript", "golang", "java", "python", "rust", "html", "css", "c++", "c#", "swift"],
