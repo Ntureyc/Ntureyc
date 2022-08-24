@@ -3,10 +3,9 @@
 
 ```JS
 const aboutMe = {
-    name: "Sheikh_Saurabh_Hossain_Shopno",
-    age: "18+",
-    country: "Bangladesh",
-    game: ["free-fire", "minecraft", "valorant", "gta-v5", "watch-dog", "cs-go"],
+    name: "Sheikh Saurabh Hossain Shopno",
+    nationality: "Bangladeshi",
+    knowledge: ["Game Development", "Software Development", "Web Development"],
     languages: ["Javascript", "Typescript", "golang", "java", "python", "rust", "html", "css", "c++", "c#", "swift"],
     stacks: ["MERN", "MEVN"]
 }
