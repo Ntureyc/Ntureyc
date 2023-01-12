@@ -1,4 +1,4 @@
-**Saurabh Coder**
+**Ntureyc**
 <h1>Hello 👋</h1>
 
 ```JS
@@ -6,7 +6,7 @@ const aboutMe = {
     name: "Sheikh Saurabh Hossain Shopno",
     nationality: "Bangladeshi",
     knowledge: ["Game Development", "Software Development", "Web Development"],
-    languages: ["Javascript", "Typescript", "golang", "java", "python", "rust", "html", "css", "c++", "c#", "swift"],
+    languages: ["Javascript", "Typescript", "golang", "java", "python", "rust", "ruby", "html", "css", "c++", "c#", "swift"],
     stacks: ["MERN", "MEVN"]
 }
 ```
