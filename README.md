@@ -3,7 +3,7 @@
 
 ```JS
 const aboutMe = {
-    name: "SOHRAB",
+    name: "Shopno",
     nationality: "Bangladeshi",
     knowledge: ["Game Development", "Software Development", "Web Development"],
     languages: ["Javascript", "Typescript", "golang", "java", "python", "rust", "ruby", "html", "css", "c++", "c#", "swift"],
