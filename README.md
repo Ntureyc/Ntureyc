@@ -3,8 +3,7 @@
 
 ```JS
 const aboutMe = {
-    name: "Shopno",
-    nationality: "Bangladeshi",
+    name: "Marco",
     knowledge: ["Game Development", "Software Development", "Web Development"],
     languages: ["Javascript", "Typescript", "golang", "java", "python", "rust", "ruby", "html", "css", "c++", "c#", "swift"],
     stacks: ["MERN", "MEVN"]
