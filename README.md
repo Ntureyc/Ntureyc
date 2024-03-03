@@ -14,8 +14,6 @@
 
 <ul>
   <li>Game Development</li>
-  <li>Software Development</li>
-  <li>Web Development</li>
 </ul>
 
 <h2 align="center">My Programming Languages</h2>
@@ -27,7 +25,6 @@
   <li>Java</li>
   <li>Python</li>
   <li>Rust</li>
-  <li>Ruby</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>C++</li>
