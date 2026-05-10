@@ -5,5 +5,6 @@
 Fun fact: I probably drink more water than my laptop consumes power.  
 
 # GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ntureyc&theme=github_dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ntureyc&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ntureyc&layout=compact&theme=radical)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ntureyc&theme=github_dark&hide_border=false)
