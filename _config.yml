@@ -1,1 +1,60 @@
-theme: jekyll-theme-hacker
+# ==============================================================================
+# GitHub Pages & Jekyll Configuration
+# Profile & Project Page: Ntureyc/Ntureyc
+# Theme: Red Hair Pirates & Shanks Realm
+# ==============================================================================
+
+# Site Information
+title: "Ntureyc | Chief of the Red Hair Fleet"
+tagline: "Just another human on the internet, tinkering with ideas and building things for fun"
+description: "Welcome aboard the Red Force! Personal log and Grand Line voyage of Ntureyc — curious soul exploring code."
+url: "https://ntureyc.github.io"
+baseurl: "/Ntureyc"
+repository: "Ntureyc/Ntureyc"
+
+# Author & Social Details
+author:
+  name: "Ntureyc"
+  email: "ntureyc@gmail.com"
+  github: "Ntureyc"
+  website: "https://ntureyc.xyz"
+  bio: "Code Addicted • Red Hair Fleet"
+
+# Jekyll Engine & Theming
+theme: jekyll-theme-cayman
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+# Plugins (Standard GitHub Pages Whitelist)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Social & SEO Tags
+twitter:
+  username: Ntureyc
+  card: summary_large_image
+
+social:
+  name: Ntureyc
+  links:
+    - https://github.com/Ntureyc
+    - https://ntureyc.xyz
+
+# Build Settings & Excludes
+exclude:
+  - .github/
+  - dist/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - node_modules/
+  - .git/

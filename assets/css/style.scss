@@ -1,0 +1,112 @@
+---
+---
+@import "{{ site.theme }}";
+
+// ==============================================================================
+// Red Hair Pirates Shanks Theme Overrides for Jekyll Cayman Theme
+// ==============================================================================
+:root {
+  --pirate-red: #ff3838;
+  --pirate-scarlet: #e84118;
+  --pirate-gold: #ffd32a;
+  --pirate-amber: #ffa801;
+  --ocean-depth: #080810;
+  --ocean-surface: #140812;
+  --ocean-border: #2d1522;
+  --text-primary: #f5f6fa;
+  --text-secondary: #dcdde1;
+}
+
+body {
+  background-color: var(--ocean-depth);
+  color: var(--text-secondary);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.page-header {
+  background: radial-gradient(circle at 50% 30%, #1e0a18 0%, #080810 100%);
+  border-bottom: 3px solid var(--pirate-red);
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.project-name {
+  color: var(--pirate-red);
+  text-shadow: 0 0 15px rgba(255, 56, 56, 0.45);
+  font-weight: 800;
+  letter-spacing: 2px;
+}
+
+.project-tagline {
+  color: var(--pirate-gold);
+  font-weight: 600;
+  letter-spacing: 1.5px;
+}
+
+.btn {
+  background-color: rgba(255, 56, 56, 0.12);
+  border: 1px solid var(--pirate-red);
+  color: var(--pirate-red);
+  border-radius: 8px;
+  font-weight: 600;
+  transition: all 0.25s ease;
+  margin: 0.3rem;
+}
+
+.btn:hover {
+  background-color: var(--pirate-red);
+  color: #080810;
+  box-shadow: 0 0 15px rgba(255, 56, 56, 0.5);
+  transform: translateY(-2px);
+}
+
+.main-content {
+  background-color: var(--ocean-depth);
+  color: var(--text-primary);
+  max-width: 64rem;
+  padding: 2rem 1.5rem;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4 {
+  color: var(--pirate-red);
+  border-bottom: 1px solid rgba(255, 56, 56, 0.25);
+  padding-bottom: 0.4rem;
+  margin-top: 2rem;
+}
+
+.main-content a {
+  color: #ff6b6b;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.main-content a:hover {
+  color: var(--pirate-gold);
+  text-decoration: underline;
+}
+
+.main-content blockquote {
+  border-left: 4px solid var(--pirate-red);
+  background: rgba(255, 56, 56, 0.08);
+  padding: 0.8rem 1.2rem;
+  border-radius: 0 8px 8px 0;
+  color: #dfe4ea;
+}
+
+.main-content code {
+  background: #180914;
+  border: 1px solid var(--ocean-border);
+  color: #ffa801;
+  border-radius: 4px;
+}
+
+.main-content hr {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--pirate-red), transparent);
+  margin: 2.5rem 0;
+}

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 36" width="100%" height="36">
+  <defs>
+    <linearGradient id="divLineLeft" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff3838" stop-opacity="0"/>
+      <stop offset="70%" stop-color="#e84118" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#ff4757" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="divLineRight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff4757" stop-opacity="1"/>
+      <stop offset="30%" stop-color="#e84118" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#ff3838" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Left Line -->
+  <line x1="20" y1="18" x2="415" y2="18" stroke="url(#divLineLeft)" stroke-width="1.8" stroke-linecap="round"/>
+  <circle cx="280" cy="18" r="2" fill="#ff3838" fill-opacity="0.8"/>
+  <polygon points="380,18 385,15 390,18 385,21" fill="#ffa801"/>
+
+  <!-- Right Line -->
+  <line x1="485" y1="18" x2="880" y2="18" stroke="url(#divLineRight)" stroke-width="1.8" stroke-linecap="round"/>
+  <circle cx="620" cy="18" r="2" fill="#ff3838" fill-opacity="0.8"/>
+  <polygon points="520,18 515,15 510,18 515,21" fill="#ffa801"/>
+
+  <!-- Center Red Hair Skull Emblem -->
+  <g transform="translate(450, 18)">
+    <circle cx="0" cy="0" r="15" fill="#140810" stroke="#ff3838" stroke-width="1.5"/>
+    <!-- Crossed sabers -->
+    <line x1="-8" y1="-8" x2="8" y2="8" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="8" y1="-8" x2="-8" y2="8" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round"/>
+    <circle cx="6" cy="6" r="1.5" fill="#ffa801"/>
+    <circle cx="-6" cy="6" r="1.5" fill="#ffa801"/>
+    <!-- Skull -->
+    <circle cx="0" cy="0" r="5" fill="#ffffff"/>
+    <circle cx="-1.8" cy="0" r="1" fill="#140810"/>
+    <circle cx="1.8" cy="0" r="1" fill="#140810"/>
+    <!-- 3 Red Scars -->
+    <line x1="-2.8" y1="-3" x2="-2.8" y2="2.5" stroke="#ff3838" stroke-width="0.8"/>
+    <line x1="-1.8" y1="-3.5" x2="-1.8" y2="3" stroke="#ff3838" stroke-width="0.8"/>
+    <line x1="-0.8" y1="-3" x2="-0.8" y2="2.5" stroke="#ff3838" stroke-width="0.8"/>
+  </g>
+</svg>
