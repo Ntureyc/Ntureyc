@@ -30,9 +30,22 @@ A minimalist music player for Windows and Linux, built for local files and smoot
 
 ## Activity
 
-Most used languages:
+GitHub stats and most used languages:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ntureyc&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Most used languages" />
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ntureyc&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
+    </td>
+    <td width="45%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ntureyc&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Most used languages" />
+    </td>
+  </tr>
+</table>
+
+Contributions over the last year:
+
+[![Contributions over the last year](https://ghchart.rshah.org/2da44e/Ntureyc)](https://github.com/Ntureyc?tab=overview)
 
 ## Get in touch
 
