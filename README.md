@@ -34,14 +34,6 @@ Most used languages:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ntureyc&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Most used languages" />
 
-Contribution graph:
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ntureyc/Ntureyc/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ntureyc/Ntureyc/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Ntureyc/Ntureyc/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution graph" />
-</picture>
-
 ## Get in touch
 
 Always happy to talk about code, swap ideas or work on something together.
