@@ -47,5 +47,4 @@ Contribution graph:
 Always happy to talk about code, swap ideas or work on something together.
 
 - Website: [ntureyc.xyz](https://ntureyc.xyz)
-- GitHub: [@Ntureyc](https://github.com/Ntureyc)
-- Email: [ntureyc@gmail.com](mailto:ntureyc@gmail.com)
+- Email: [mail@ntureyc.xyz](mailto:mail@ntureyc.xyz)
