@@ -1,14 +1,16 @@
 # Ntureyc
 
-I write small, practical software. Most of it is desktop or Linux tooling that I needed myself at some point.
+I'm Ntureyc, a developer who likes understanding how things work, breaking things occasionally, and finding better ways to put them back together.
 
-The aim is simple: plain code, few dependencies, and a tool that does one job well.
+I'm curious by nature, spend too much time exploring technology, and rarely leave a problem alone when I think I can figure it out myself. I like things that make sense, work properly, and don't need to be more complicated than they are.
 
-## How I like to work
+## A little about me
 
-- Small changes that are easy to read and review.
-- Standard tools before new dependencies.
-- Working software over long explanations.
+- Curious about how things work, especially the things most people never look into.
+- Prefer figuring things out myself rather than following the crowd.
+- Have a habit of turning small problems into bigger projects.
+- Like keeping things simple, even if getting there takes a while.
+- Probably have more unfinished ideas than free time.
 
 ## Activity
 
