@@ -32,10 +32,3 @@ GitHub stats and most used languages:
     </td>
   </tr>
 </table>
-
-## Get in touch
-
-Always happy to talk about code, swap ideas or work on something together.
-
-- Website: [ntureyc.xyz](https://ntureyc.xyz)
-- Email: [mail@ntureyc.xyz](mailto:mail@ntureyc.xyz)
