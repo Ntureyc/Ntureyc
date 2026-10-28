@@ -12,6 +12,14 @@ The aim is simple: plain code, few dependencies, and a tool that does one job we
 
 ## Activity
 
+Streak:
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Ntureyc&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
 GitHub stats and most used languages:
 
 <table>
@@ -24,10 +32,6 @@ GitHub stats and most used languages:
     </td>
   </tr>
 </table>
-
-Streak:
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ntureyc&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ## Get in touch
 
