@@ -4,24 +4,6 @@ I write small, practical software. Most of it is desktop or Linux tooling that I
 
 The aim is simple: plain code, few dependencies, and a tool that does one job well.
 
-**Site:** [ntureyc.xyz](https://ntureyc.xyz)
-
-## Projects
-
-### [SuperV](https://github.com/Ntureyc/SuperV)
-
-A Windows 11-style clipboard history flyout for GNOME Shell, opened with `Super+V`.
-
-It closes on its own, searches as you type, and lets you pin entries or paste them straight away.
-
-`JavaScript` · `GNOME Shell`
-
-### [BitBeat](https://github.com/Ntureyc/BitBeat)
-
-A minimalist music player for Windows and Linux, built for local files and smooth playback.
-
-`JavaScript` · `Rust`
-
 ## How I like to work
 
 - Small changes that are easy to read and review.
@@ -43,9 +25,9 @@ GitHub stats and most used languages:
   </tr>
 </table>
 
-Contributions over the last year:
+Streak:
 
-[![Contributions over the last year](https://ghchart.rshah.org/2da44e/Ntureyc)](https://github.com/Ntureyc?tab=overview)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ntureyc&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ## Get in touch
 
